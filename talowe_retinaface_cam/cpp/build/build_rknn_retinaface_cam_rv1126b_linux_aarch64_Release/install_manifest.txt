@@ -1,0 +1,5 @@
+/home/talowe/rv1126b_aidemo/RetinaFace/cpp/install/rv1126b_linux_aarch64/rknn_retinaface_cam/./rknn_retinaface_demo
+/home/talowe/rv1126b_aidemo/RetinaFace/cpp/install/rv1126b_linux_aarch64/rknn_retinaface_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/RetinaFace/cpp/install/rv1126b_linux_aarch64/rknn_retinaface_cam/model/RetinaFace.rknn
+/home/talowe/rv1126b_aidemo/RetinaFace/cpp/install/rv1126b_linux_aarch64/rknn_retinaface_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/RetinaFace/cpp/install/rv1126b_linux_aarch64/rknn_retinaface_cam/lib/librga.so
