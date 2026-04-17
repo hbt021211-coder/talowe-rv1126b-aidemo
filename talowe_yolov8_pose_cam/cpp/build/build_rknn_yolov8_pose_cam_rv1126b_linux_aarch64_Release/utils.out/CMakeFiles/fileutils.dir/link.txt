@@ -1,0 +1,2 @@
+/home/talowe/rv1126b/rv1126b_linux6.1_sdk_v1.1.0/buildroot/output/rockchip_rv1126b/host/bin/aarch64-buildroot-linux-gnu-ar qc libfileutils.a CMakeFiles/fileutils.dir/file_utils.c.o
+/home/talowe/rv1126b/rv1126b_linux6.1_sdk_v1.1.0/buildroot/output/rockchip_rv1126b/host/bin/aarch64-buildroot-linux-gnu-ranlib libfileutils.a

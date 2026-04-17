@@ -1,0 +1,6 @@
+/home/talowe/rv1126b_aidemo/yolov8_pose/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_pose_cam/./rknn_yolov8_pose_demo
+/home/talowe/rv1126b_aidemo/yolov8_pose/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_pose_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/yolov8_pose/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_pose_cam/./model/yolov8_pose_labels_list.txt
+/home/talowe/rv1126b_aidemo/yolov8_pose/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_pose_cam/model/yolov8_pose.rknn
+/home/talowe/rv1126b_aidemo/yolov8_pose/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_pose_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/yolov8_pose/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_pose_cam/lib/librga.so
