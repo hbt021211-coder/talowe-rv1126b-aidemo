@@ -1,5 +1,5 @@
 🛠️ Talowe-Rv1126b-AI-Application-Demo  
-推理引擎：RKNN（Rockchip Neural Network） 
+推理引擎：RKNN(Rockchip Neural Network)  
 硬件平台：RV1126B 芯片  
 图像处理：OpenCV  
 深度学习：ONNX/Pytorch/Caffe/Darknet/Caffe  
