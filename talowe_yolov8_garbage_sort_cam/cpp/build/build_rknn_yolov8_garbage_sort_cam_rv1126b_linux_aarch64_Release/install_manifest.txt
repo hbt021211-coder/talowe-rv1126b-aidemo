@@ -1,0 +1,6 @@
+/home/talowe/rv1126b_aidemo/talowe_yolov8_garbage_sort_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_garbage_sort_cam/./rknn_yolov8_garbage_sort_cam
+/home/talowe/rv1126b_aidemo/talowe_yolov8_garbage_sort_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_garbage_sort_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/talowe_yolov8_garbage_sort_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_garbage_sort_cam/model/coco_4_labels_list.txt
+/home/talowe/rv1126b_aidemo/talowe_yolov8_garbage_sort_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_garbage_sort_cam/model/garbage_sort.rknn
+/home/talowe/rv1126b_aidemo/talowe_yolov8_garbage_sort_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_garbage_sort_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/talowe_yolov8_garbage_sort_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_garbage_sort_cam/lib/librga.so
