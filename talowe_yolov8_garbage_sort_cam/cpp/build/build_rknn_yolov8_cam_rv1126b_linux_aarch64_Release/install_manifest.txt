@@ -1,0 +1,6 @@
+/home/talowe/rv1126b_aidemo/yolov8/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_cam/./rknn_yolov8_cam
+/home/talowe/rv1126b_aidemo/yolov8/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/yolov8/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_cam/model/coco_80_labels_list.txt
+/home/talowe/rv1126b_aidemo/yolov8/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_cam/model/garbage.rknn
+/home/talowe/rv1126b_aidemo/yolov8/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_cam/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/yolov8/cpp/install/rv1126b_linux_aarch64/rknn_yolov8_cam/lib/librga.so
